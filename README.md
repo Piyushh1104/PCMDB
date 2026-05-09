@@ -193,12 +193,11 @@ http://crdd.osdd.net/raghava/pcmdb/
 # Contact
 
 ## Prof. Gajendra P. S. Raghava
+ 
+Indraprastha Institute of Information Technology 
+Delhi
 
-Bioinformatics Centre  
-CSIR-Institute of Microbial Technology  
-Chandigarh, India
-
-Email: raghava@imtech.res.in
+Email: raghava@iiitd.ac.in
 
 ---
 
