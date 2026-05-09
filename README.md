@@ -12,6 +12,7 @@ Nagpal, G., Sharma, M., Kumar, S., Chaudhary, K., Gupta, S., Gautam, A., & Ragha
 **PCMdb: Pancreatic Cancer Methylation Database.**  
 Scientific Reports, 4, 4197.  
 https://doi.org/10.1038/srep04197
+https://doi.org/10.5281/zenodo.20068623
 
 ---
 
